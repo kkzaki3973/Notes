@@ -40,3 +40,7 @@ https://play.google.com/apps/testing/com.bijoysingh.quicknote
 # Survey Link
 If you have used the app, here is a survey which helps me understand how to make the app better.
 https://goo.gl/forms/UbE2lARpp89CNIbl2
+
+## BrowserStack
+
+This project is tested with BrowserStack
